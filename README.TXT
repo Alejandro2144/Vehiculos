@@ -5,6 +5,6 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Vehiculos
-PURPOSE OF PROJECT: Parqueadero 
+PURPOSE OF PROJECT: Sensores y Vehiculos 
 VERSION or DATE: 2020
 AUTHORS: Alejandro Torres 
